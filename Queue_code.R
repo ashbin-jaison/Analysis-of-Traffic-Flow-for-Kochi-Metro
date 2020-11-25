@@ -1,3 +1,5 @@
+#======= Code for M/D/1 queue Model =======#
+
 library(pracma)
 library(ggplot2)
 library(queueing)
